@@ -2,4 +2,4 @@
 
 ## Live Site
 You can check the live site here: 
-[https:silly-names-hun.netlify.app](https:silly-names-hun.netlify.app)
+[https://silly-names-hun.netlify.app](https://silly-names-hun.netlify.app)
